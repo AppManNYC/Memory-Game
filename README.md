@@ -1,5 +1,5 @@
 # Memory Game
-Local Weather App using JavaScript and Open Weather API. Users can see local weather in my current location and see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather, and push a button to toggle between Fahrenheit and Celsius.
+A memory game constructed in HTML, CSS, and pure JavaScript without any frameworks, utilizing the object oriented features within JavaScript.
 
 Screenshots:
 =======
